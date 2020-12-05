@@ -1,6 +1,5 @@
 <template>
   <h1>{{ msg }}</h1>
-  <button @click="count++">count is: {{ count }}</button>
   <p>Nyob Zoo, This project is open for Pull Requests and Collaboration.</p>
 </template>
 
